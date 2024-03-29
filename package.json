@@ -1,5 +1,6 @@
 {
   "name": "learn-node",
+  "author": "doe john",
   "version": "1.0.0",
   "description": "",
   "main": "calculator.js",
